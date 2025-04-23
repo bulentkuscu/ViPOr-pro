@@ -5,4 +5,4 @@ Galaksi Dönüş Eğrileri Simülasyon Projesi
 ```bash
 git clone https://github.com/BulentKuscu/ViPOr-pro.git
 cd ViPOr-pro
-python pages/2_A_Closer_Look_at_Rotation_Curves.py# ViPOr-pro
+python pages/2_A_Closer_Look_at_Rotation_Curves.py 
